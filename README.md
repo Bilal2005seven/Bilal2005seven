@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hey, I’m Bilal Ahmed
 
-<!--
-**Bilal2005seven/Bilal2005seven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I’m a tech enthusiast who loves building smart systems and solving real problems using AI and clean code. I enjoy exploring new tools, experimenting with models, and working on projects that actually make an impact.
+Currently working as an AI Developer at KisanOne, building AI solutions for agriculture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always open to teaming up on interesting AI/ML or full-stack projects — learning, sharing, and building together is what keeps me motivated.
+
+📩 Contact
+
+Email: bilalseven@gmail.com
+
+Portfolio: bilalahmed.vercel.app
