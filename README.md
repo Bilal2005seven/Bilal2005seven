@@ -9,6 +9,6 @@ I’m always open to teaming up on interesting AI/ML or full-stack projects — 
 
 📩 Contact
 
-Email: bilalseven@gmail.com
+Email: bilalz2005z@gmail.com
 
 Portfolio: bilalahmed.vercel.app
